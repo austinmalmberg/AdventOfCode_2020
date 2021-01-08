@@ -1,0 +1,13 @@
+{
+  "name": "Advent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
